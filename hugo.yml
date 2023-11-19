@@ -1,0 +1,32 @@
+baseURL: https://monetizarte.es
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/monetizarte/monetizarte.es
+  netlify_name: monetizarte
+  netlify_id: c2298d58-fa57-4af1-90cb-6e4bfea0501d
+  drive_link: https://drive.google.com/file/d/1c_rCcQ7AWHNhZs39Dr4lnDHTcBd813R4
+  drive_mails: lizmart69@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

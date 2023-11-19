@@ -1,0 +1,18 @@
+title: Precios
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: false
+    underline: true
+    link: '#contacto'
+    label: Contacto
+  items:
+  - title: Asesoramiento
+    price: 100 €
+  - title: Coolhunting
+    price: 100 €
+  - title: Marketing en RRSS
+    price: 100 €
+  - title: Estrategia de Ventas
+    price: 100 €

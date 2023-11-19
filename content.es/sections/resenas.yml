@@ -1,0 +1,30 @@
+title: Reseñas
+bg: fondo.jpg
+more:
+  opacity: 30
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Juan S.
+    description: |
+      Lograron aumentar nuestras conversiones considerablemente.
+
+      ¡Resultados tangibles y estrategias efectivas!
+  - title: Laura M.
+    description: |
+      El servicio fue profesional y personalizado.
+
+      Nos ayudaron a alcanzar nuestros objetivos comerciales con éxito.
+  - title: Alejandro T.
+    description: |
+      El enfoque estratégico nos permitió destacarnos rápidamente.
+
+      ¡Totalmente recomendado para impulsar tu negocio!
+- type: columns
+  items:
+  - description: |
+      [btn icon-plus Más](https://g.page/r/Cc39a3gN-xB9EAI/review "noindex")

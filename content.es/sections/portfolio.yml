@@ -1,0 +1,17 @@
+title: Portfolio
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: /pagina-ejemplo/
+  images:
+  - fondo.jpg
+  - https://images.unsplash.com/photo-1519389950473-47ba0277781c?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1552664730-d307ca884978?fit=crop&w=512&q=60
+  - https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?fit=crop&w=512&q=60

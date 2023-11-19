@@ -1,0 +1,20 @@
+title: Características
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: false
+    underline: true
+  items:
+  - title: Asesoramiento
+    subtitle: en Ventas y Conversión de Leads
+    icon: messages-dollar
+  - title: Coolhunting
+    subtitle: Empresarial
+    icon: user-bounty-hunter
+  - title: Marketing en RRSS
+    subtitle: enfocados en Monetización
+    icon: bullhorn
+  - title: Estrategia de Ventas
+    subtitle: Online y Offline
+    icon: bullseye-arrow

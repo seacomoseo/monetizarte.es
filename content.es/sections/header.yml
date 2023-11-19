@@ -1,0 +1,41 @@
+anchor: Monetizarte, Marketing y Comunicación
+# title: Marketing y Comunicación
+# subtitle: Te posicionamos para ganar
+# description: |
+#   [btn icon-plus Más](#principal)
+# uppercase: false
+# image: logo.svg
+# image_min: 18
+# image_max: 20
+# full_screen: true
+# color: main-dark
+# gradient: main
+# gradient_type: circle
+# bg: fondo.jpg
+# opacity: 30
+# parallax: true
+size: md
+more:
+  flip_y: false
+  divider: arrow-op-fill
+rows:
+- type: columns
+  # num: 4
+  design:
+    align_y: top
+  items:
+  - title: Marketing y Comunicación
+    subtitle: Te posicionamos para ganar
+    image: logo.svg
+    description: |
+      by Liz Almeida
+
+      [btn icon-plus Más](#principal)
+      <!--
+      [btn Sobre mí](#sobre-mi)
+      [btn Servicios](#servicios)
+      [btn Contacto](#contacto)
+      -->
+    more:
+      underline: true
+  - image: liz-almeida.png

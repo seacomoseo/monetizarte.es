@@ -1,0 +1,31 @@
+// Header
+
+@keyframes show-right {
+  0% {
+    transform: translateX(30rem) rotateY(0deg);
+    opacity: 0;
+  }
+  50% {
+    transform: translateX(0rem) rotateY(0deg);
+    opacity: .5;
+  }
+  100% {
+    transform: translateX(0rem) rotateY(180deg);
+    opacity: 1;
+  }
+}
+#body-inicio #header {
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .column--item-1 .image { @include show-up(0); }
+  .section__title {        @include show-up(1); }
+  .subtitle {              @include show-up(2); }
+  .description p {         @include show-up(3); }
+  .description .buttons {  @include show-up(4); }
+  .column--item-2 {
+    margin-bottom: -14em;
+    transform-origin: center;
+    animation: show-right 1.5s 1.5s both;
+  }
+}

@@ -1,0 +1,15 @@
+title: Equipo
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - image: fondo.jpg
+  - title: Liz Almeida
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    more:
+      align: left

@@ -1,0 +1,24 @@
+title: Servicios
+size: md
+rows:
+- type: columns
+  design:
+    num: 3
+    num_xs: false
+    color: white
+    link: '#contacto'
+    label: Contacto
+    licon: none
+  items:
+  - title: Sitio Web y <br> Tienda Online
+    icon: window
+  - title: Redes <br> Sociales
+    icon: heart
+  - title: Fotografía <br> y Vídeo
+    icon: aperture
+  - title: Formaciones
+    icon: graduation-cap
+  - title: Eventos y <br> Cobertura
+    icon: calendar
+  - title: Crecimiento <br>en RRSS
+    icon: chart-line-up
