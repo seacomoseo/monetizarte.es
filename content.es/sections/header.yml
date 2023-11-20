@@ -16,8 +16,8 @@ anchor: Monetizarte, Marketing y Comunicación
 # parallax: true
 size: md
 more:
-  flip_y: false
-  divider: arrow-op-fill
+  flip_y: true
+  divider: arrow-op
 rows:
 - type: columns
   # num: 4

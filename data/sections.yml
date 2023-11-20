@@ -35,7 +35,4 @@ general:
   flip_x: false
   flip_y: true
 alternate:
-- divider: arrow-op-fill
-  flip_x: false
-  flip_y: false
-  color: main
+- color: main
