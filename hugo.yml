@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/monetizarte/monetizarte.es
   netlify_name: monetizarte
   netlify_id: c2298d58-fa57-4af1-90cb-6e4bfea0501d
+  hook: NjRhZjBhM2RlNTFkNzAxZDFhYzdiM2Nj
   drive_link: https://drive.google.com/file/d/1c_rCcQ7AWHNhZs39Dr4lnDHTcBd813R4
   drive_mails: lizmart69@gmail.com
 defaultContentLanguage: es
