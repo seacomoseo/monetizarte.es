@@ -2,15 +2,15 @@
 
 @keyframes show-right {
   0% {
-    transform: translateX(30rem) rotateY(0deg);
+    transform: translateX(30rem) rotateY(180deg);
     opacity: 0;
   }
   50% {
-    transform: translateX(0rem) rotateY(0deg);
+    transform: translateX(0rem) rotateY(180deg);
     opacity: .5;
   }
   100% {
-    transform: translateX(0rem) rotateY(180deg);
+    transform: translateX(0rem) rotateY(0deg);
     opacity: 1;
   }
 }
